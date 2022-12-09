@@ -1,0 +1,15 @@
+D:\Новая папка\GB\С#\DZ_seminar2\2.3\obj\Debug\net6.0\2.3.csproj.AssemblyReference.cache
+D:\Новая папка\GB\С#\DZ_seminar2\2.3\obj\Debug\net6.0\2.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Новая папка\GB\С#\DZ_seminar2\2.3\obj\Debug\net6.0\2.3.AssemblyInfoInputs.cache
+D:\Новая папка\GB\С#\DZ_seminar2\2.3\obj\Debug\net6.0\2.3.AssemblyInfo.cs
+D:\Новая папка\GB\С#\DZ_seminar2\2.3\obj\Debug\net6.0\2.3.csproj.CoreCompileInputs.cache
+D:\Новая папка\GB\С#\DZ_seminar2\2.3\bin\Debug\net6.0\2.3.exe
+D:\Новая папка\GB\С#\DZ_seminar2\2.3\bin\Debug\net6.0\2.3.deps.json
+D:\Новая папка\GB\С#\DZ_seminar2\2.3\bin\Debug\net6.0\2.3.runtimeconfig.json
+D:\Новая папка\GB\С#\DZ_seminar2\2.3\bin\Debug\net6.0\2.3.dll
+D:\Новая папка\GB\С#\DZ_seminar2\2.3\bin\Debug\net6.0\2.3.pdb
+D:\Новая папка\GB\С#\DZ_seminar2\2.3\obj\Debug\net6.0\2.3.dll
+D:\Новая папка\GB\С#\DZ_seminar2\2.3\obj\Debug\net6.0\refint\2.3.dll
+D:\Новая папка\GB\С#\DZ_seminar2\2.3\obj\Debug\net6.0\2.3.pdb
+D:\Новая папка\GB\С#\DZ_seminar2\2.3\obj\Debug\net6.0\2.3.genruntimeconfig.cache
+D:\Новая папка\GB\С#\DZ_seminar2\2.3\obj\Debug\net6.0\ref\2.3.dll
